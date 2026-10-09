@@ -24,8 +24,7 @@ The app isn't code-signed yet, so each computer asks once:
 
 Open Projector Match. Chrome (or Edge) opens the app. Nothing else needs installing, and it works with no internet connection at the venue.
 
-- **Windows:** a small window shows the bridge log. Close it to stop.
-- **Mac:** it runs in the background. Use **Quit bridge** in the app to stop.
+It runs in the background with no window of its own. Close the app's browser tab and it stops by itself 2 minutes later, or use **Quit bridge** in the app to stop right away. Opening it again while it runs just reopens the app page.
 
 ## Updates
 
